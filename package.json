@@ -1,0 +1,21 @@
+{
+  "name": "agy-zh",
+  "version": "0.1.0",
+  "description": "Google Antigravity 桌面端中文汉化安装与更新工具",
+  "type": "module",
+  "bin": {
+    "agy-zh": "bin/agy-zh.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "author": "zhang-Zz789",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhang-Zz789/agy-zh.git"
+  },
+  "license": "MIT"
+}
